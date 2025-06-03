@@ -46,10 +46,6 @@ Um App musical interativo via terminal com **Spring Boot** e integração à **A
    mvn spring-boot:run
    ```
 
-## 📸 Demonstração
-
-![Demo do Terminal](link_para_gif_ou_imagem.gif) *(Grave um GIF seguindo [este guia](https://github.com/marcioluca/aluraMusic#como-gravar-um-demo))*
-
 ## 🤝 Contribuições
 
 Contribuições são bem-vindas! Abra uma **issue** ou envie um **PR** com melhorias.
