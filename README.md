@@ -16,10 +16,10 @@ Um App musical interativo via terminal com **Spring Boot** e integração à **A
 
 ## 🛠️ Tecnologias
 
-- **Backend:** Java 17, Spring Boot 3, Spring Data JPA
+- **Backend:** Java 21, Spring Boot 3, Spring Data JPA
 - **Banco de Dados:** PostgreSQL
 - **IA:** Gemini API (Google AI)
-- **Ferramentas:** Lombok, Hibernate, Maven
+- **Ferramentas:** Hibernate, Maven
 
 ## ⚙️ Como Executar
 
