@@ -1,8 +1,8 @@
 # 🎵 Alura Music
 
-[![Java](https://img.shields.io/badge/Java-17-%23ED8B00?logo=openjdk)](https://www.java.com/)
+[![Java](https://img.shields.io/badge/Java-21-%23ED8B00?logo=openjdk)](https://www.java.com/)
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.1.5-%236DB33F?logo=spring)](https://spring.io/projects/spring-boot)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-%23316192?logo=postgresql)](https://www.postgresql.org/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-17-%23316192?logo=postgresql)](https://www.postgresql.org/)
 [![Gemini API](https://img.shields.io/badge/Gemini_API-1.0-%23FF6F00?logo=google)](https://ai.google.dev/)
 
 Um App musical interativo via terminal com **Spring Boot** e integração à **API do Gemini** para enriquecer dados de artistas.
