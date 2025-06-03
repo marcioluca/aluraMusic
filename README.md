@@ -5,7 +5,7 @@
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-%23316192?logo=postgresql)](https://www.postgresql.org/)
 [![Gemini API](https://img.shields.io/badge/Gemini_API-1.0-%23FF6F00?logo=google)](https://ai.google.dev/)
 
-Um CRUD musical interativo via terminal com **Spring Boot** e integração à **API do Gemini** para enriquecer dados de artistas.
+Desenvolvimento de uma Aplicação Musical Interativa em Terminal com **Spring Boot** e Integração à API do **Gemini**
 
 ## ✨ Funcionalidades
 
