@@ -5,7 +5,7 @@
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-%23316192?logo=postgresql)](https://www.postgresql.org/)
 [![Gemini API](https://img.shields.io/badge/Gemini_API-1.0-%23FF6F00?logo=google)](https://ai.google.dev/)
 
-Desenvolvimento de uma Aplicação Musical Interativa em Terminal com **Spring Boot** e Integração à API do **Gemini**
+Um App musical interativo via terminal com **Spring Boot** e integração à **API do Gemini** para enriquecer dados de artistas.
 
 ## ✨ Funcionalidades
 
@@ -19,7 +19,7 @@ Desenvolvimento de uma Aplicação Musical Interativa em Terminal com **Spring B
 - **Backend:** Java 17, Spring Boot 3, Spring Data JPA
 - **Banco de Dados:** PostgreSQL
 - **IA:** Gemini API (Google AI)
-- **Ferramentas:** Hibernate, Maven
+- **Ferramentas:** Lombok, Hibernate, Maven
 
 ## ⚙️ Como Executar
 
@@ -32,3 +32,29 @@ Desenvolvimento de uma Aplicação Musical Interativa em Terminal com **Spring B
    ```bash
    git clone https://github.com/marcioluca/aluraMusic.git
    cd aluraMusic
+   ```
+   - Crie um arquivo `.env` na raiz com:
+     ```
+     DB_URL=jdbc:postgresql://localhost:5432/alura_music
+     DB_USERNAME=seu_user
+     DB_PASSWORD=sua_senha
+     GEMINI_API_KEY=sua_chave
+     ```
+
+3. **Execução:**
+   ```bash
+   mvn spring-boot:run
+   ```
+
+## 📸 Demonstração
+
+![Demo do Terminal](link_para_gif_ou_imagem.gif) *(Grave um GIF seguindo [este guia](https://github.com/marcioluca/aluraMusic#como-gravar-um-demo))*
+
+## 🤝 Contribuições
+
+Contribuições são bem-vindas! Abra uma **issue** ou envie um **PR** com melhorias.
+
+## 📄 Licença
+
+Este projeto está sob licença MIT. Veja o arquivo [LICENSE](LICENSE) para detalhes.
+```
